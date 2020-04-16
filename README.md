@@ -10,6 +10,10 @@
   The program for the board is written in vscode using the platformio IDE and the arduino framework. It should work fine if you are just using the Arduino IDE, although I haven't tested it yet.
 </p>
 
+## Video Tutorial
+
+[Watch on Youtube](https://youtu.be/hMQ5NvTD7s8 )
+
 ## Schematics
 
 ![alt text](https://github.com/periklis92/AmbiLight/blob/master/schematic.jpg "Schematics")
